@@ -1,0 +1,3 @@
+Online recipe book for people
+Can extract the recipe from a page, take a photo from the page as well
+and curate a "book" that they can search through and continue to curate
